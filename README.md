@@ -6,3 +6,6 @@ Home page
 
 Cart Page
 ![Cart-Page](https://github.com/viren0250/Shopping-Cart/assets/158808002/2063a92e-9b49-4230-aee8-1b2bbc047084)
+
+Empty Cart
+![image](https://github.com/viren0250/Shopping-Cart/assets/158808002/62c5d866-3e39-454e-b9ba-d35425e3c398)
